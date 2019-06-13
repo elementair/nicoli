@@ -1,0 +1,1 @@
+[29-May-2019 16:54:57 UTC] PHP Fatal error:  Class 'WC_Privacy_Background_Process' not found in /home/nicolire/demo.nicolirentacar.com/wp-content/plugins/woocommerce/includes/class-wc-privacy.php on line 34
